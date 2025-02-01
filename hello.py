@@ -8,7 +8,7 @@ def bubble_sort(arr):
 
 # 示例用法
 if __name__ == "__main__":
-    example = [64, 34, 25, 12, 22, 11, 90]
+    example = [676, 34, 25, 12, 22, 11, 90]
     print("排序前:", example)
     sorted_arr = bubble_sort(example)
     print("排序后:", sorted_arr)
